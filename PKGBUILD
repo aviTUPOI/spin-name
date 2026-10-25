@@ -8,7 +8,7 @@ url="https://github.com/aviTUPOI/spin-name"
 license=('MIT')
 depends=('python')
 source=("$pkgname-$pkgver.tar.gz::$url/archive/refs/tags/v$pkgver.tar.gz")
-sha256sums=('ВСТАВЬ_ХЕШ_АРХИВА_РЕЛИЗА')
+sha256sums=('d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed  release.tar.gz')
 
 package() {
     cd "$pkgname-$pkgver"

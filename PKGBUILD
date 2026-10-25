@@ -1,6 +1,6 @@
 # Maintainer: avi <bebrailibobro@gmail.com>
 pkgname=spin-name
-pkgver=1.0.0
+pkgver=2
 pkgrel=1
 pkgdesc="3D ASCII rotating logo generator for the terminal (vibe-coded)"
 arch=('any')

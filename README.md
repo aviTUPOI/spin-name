@@ -5,6 +5,9 @@
 built with vibecoding(gemini 3.8 flash)
 
 
+##DEMO
+![spin name demo](spin-name-demo.gif)
+
 ## Installation on Arch Linux
 
 Since AUR new account registration is temporarily closed, you can install `spin-name` manually using `makepkg`:

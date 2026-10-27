@@ -5,7 +5,8 @@
 built with vibecoding(gemini 3.8 flash)
 
 
-##DEMO
+## DEMO
+
 ![spin name demo](spin-name-demo.gif)
 
 ## Installation on Arch Linux
